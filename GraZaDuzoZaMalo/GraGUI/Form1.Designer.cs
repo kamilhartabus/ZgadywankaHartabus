@@ -153,9 +153,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(8, 24);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(176, 13);
+            this.label3.Size = new System.Drawing.Size(180, 13);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Mamy liczbę, spróbuj ją trafić!";
+            this.label3.Text = "Mamy liczbę - spróbuj ją trafić!";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // button2
