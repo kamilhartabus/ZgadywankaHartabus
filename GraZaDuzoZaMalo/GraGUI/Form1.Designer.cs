@@ -210,8 +210,9 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.groupBoxLosuj);
             this.Controls.Add(this.buttonNowaGra);
+            this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "Form1";
-            this.Text = "Zgadywanka";
+            this.Text = "Jaka liczba??";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBoxLosuj.ResumeLayout(false);
             this.groupBoxLosuj.PerformLayout();
